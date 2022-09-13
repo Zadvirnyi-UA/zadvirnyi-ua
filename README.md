@@ -30,8 +30,8 @@
 <div id="footer" align="center">
   <h2>Link where you can contact me:</h2>
   <br /><br />
-  <p><a vertical-align="center" href="https://www.linkedin.com/in/mykola-zadvirnyi/" target:"_blank"><img src="./in.png" width="35px" />LinkedIn</a></p>
+  <p><a style:"vertical-align: center;" href="https://www.linkedin.com/in/mykola-zadvirnyi/" target:"_blank"><img src="./in.png" width="55px" />LinkedIn</a></p>
   <br />
-  <p><a vertical-align="center" href="#!" target:"_blank"><img src="./mz.png" width="35px" />My portfolio</a></p>
+  <p><a style:"vertical-align: center;" href="#!" target:"_blank"><img src="./mz.png" width="55px" />My portfolio</a></p>
   <hr />
 </div>
