@@ -1,3 +1,3 @@
 <div id="header" align="center">
-  <img src="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80390060030853805991279322829627921456173715833405309723844448011104303448065/" width="50%" />
+  <img src="https://giphy.com/embed/FcqKy4Kj7XOK0hCW4g" width="480" height="270" />
 </div>
