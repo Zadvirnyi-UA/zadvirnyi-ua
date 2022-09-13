@@ -10,19 +10,19 @@
   <br /><br />
   <p>Hyper Text Markup Language</p>
   <img src="./html.png" />
-  <br /><br />
+  <br /><br /><br />
   <p>Cascading Style Sheets</p>
   <img src="./css.png" />
-  <br /><br />
+  <br /><br /><br />
   <p>Java Script</p>
   <img src="./js.png" />
-  <br /><br />
+  <br /><br /><br />
   <p>Syntactically Awesome Stylesheets</p>
   <img src="./sass.png" />
-  <br /><br />
+  <br /><br /><br />
   <p>Figma - Graphic Editor</p>
   <img src="./figma.png" />
-  <br /><br />
+  <br /><br /><br />
   <p>Visual Studio Code - Code Editing</p>
   <img src="./vs.png" />
 </div>
