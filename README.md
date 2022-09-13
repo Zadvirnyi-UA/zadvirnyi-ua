@@ -1,21 +1,21 @@
-<div id="header" align="center">
+<div id="header" align="center" style="margin-bottom: 50px;">
   <hr />
-  <img src="./giphy.gif" />
   <h1>HELLO I'M MYKOLA ZADVIRNYI AND I'M A FRONT-END DEVELOPER</h1>
+  <img src="./giphy.gif" />
 </div>
-<div id="main" align="center">
+<div id="main" align="center" style="margin-bottom: 50px;">
   <h2>I use the following technologies:</h2>
-  <p margin-top: 30px>Hyper Text Markup Language</p>
+  <p style="margin-top: 30px;">Hyper Text Markup Language</p>
   <img src="./html.png" />
-  <p margin-top: 30px>Cascading Style Sheets</p>
+  <p style="margin-top: 30px;">Cascading Style Sheets</p>
   <img src="./css.png" />
-  <p margin-top: 30px>Java Script</p>
+  <p style="margin-top: 30px;">Java Script</p>
   <img src="./js.png" />
-  <p margin-top: 30px>Syntactically Awesome Stylesheets</p>
+  <p style="margin-top: 30px;">Syntactically Awesome Stylesheets</p>
   <img src="./sass.png" />
-  <p margin-top: 30px>Figma - Graphic Editor</p>
+  <p style="margin-top: 30px;">Figma - Graphic Editor</p>
   <img src="./figma.png" />
-  <p margin-top: 30px>Visual Studio Code - Code Editing</p>
+  <p style="margin-top: 30px;">Visual Studio Code - Code Editing</p>
   <img src="./vs.png" />
 </div>
 <div id="footer" align="center">
