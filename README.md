@@ -4,7 +4,7 @@
   <br /><br />
   <img src="./giphy.gif" />
 </div>
-<br /><br /><br /><br />
+<br /><br /><br />
 <div id="main" align="center">
   <h2>I use the following technologies:</h2>
   <br /><br />
@@ -26,7 +26,7 @@
   <p>Visual Studio Code - Code Editing</p>
   <img src="./vs.png" />
 </div>
-<br /><br /><br /><br />
+<br /><br /><br />
 <div id="footer" align="center">
   <h2>Link where you can contact me:</h2>
   <br /><br />
