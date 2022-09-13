@@ -5,18 +5,18 @@
 </div>
 <div id="main" align="center">
   <h2>I use the following technologies:</h2>
-  <p>HTML</p>
+  <p margin-top: 30px>Hyper Text Markup Language</p>
   <img src="./html.png" />
-  <p>CSS</p>
+  <p margin-top: 30px>Cascading Style Sheets</p>
   <img src="./css.png" />
-  <p>Java Script</p>
+  <p margin-top: 30px>Java Script</p>
   <img src="./js.png" />
-  <p>SASS</p>
+  <p margin-top: 30px>Syntactically Awesome Stylesheets</p>
   <img src="./sass.png" />
-  <p>Figma - Graphic Editor</p>
-  <img src="./html.png" />
-  <p>Visual Studio Code - Code Editing</p>
-  <img src="./html.png" />
+  <p margin-top: 30px>Figma - Graphic Editor</p>
+  <img src="./figma.png" />
+  <p margin-top: 30px>Visual Studio Code - Code Editing</p>
+  <img src="./vs.png" />
 </div>
 <div id="footer" align="center">
   <h2>Link where you can contact me:</h2>
