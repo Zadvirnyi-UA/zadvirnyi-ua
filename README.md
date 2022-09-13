@@ -1,8 +1,7 @@
 <div id="header" align="center">
+  <hr />
   <img src="./giphy.gif" />
-  <hr />
   <h1>HELLO I'M MYKOLA ZADVIRNYI AND I'M A FRONT-END DEVELOPER</h1>
-  <hr />
 </div>
 <div id="main" align="center">
   <h2>I use the following technologies:</h2>
@@ -23,4 +22,5 @@
   <h2>Link where you can contact me:</h2>
   <a vertical-align="center" href="https://www.linkedin.com/in/mykola-zadvirnyi/" target:"_blank"><img src="./in.png" width="35px" />LinkedIn</a>
   <a vertical-align="center" href="#!" target:"_blank"><img src="./mz.png" width="35px" />My portfolio</a>
+  <hr />
 </div>
