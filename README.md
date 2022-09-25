@@ -4,50 +4,44 @@
   <br /><br />
   <img src="./giphy.gif" />
 </div>
-<br /><br /><br />
+<br /><br />
 <div id="main">
   <h2>I use the following technologies:</h2>
-  <br /><br />
+  <br />
   <ul>
     <li>
-      <img src="./html.png" width="25px" />
+      <img src="./html.png" width="20px" />
       Hyper Text Markup Language
     </li>    
     <li>
-      <img src="./css.png" width="25px" />
+      <img src="./css.png" width="20px" />
       Cascading Style Sheets
     </li>    
     <li>
-      <img src="./js.png" width="25px" />
+      <img src="./js.png" width="20px" />
       Java Script
     </li>    
     <li>
-      <img src="./sass.png" width="25px" />
+      <img src="./sass.png" width="20px" />
       Syntactically Awesome Stylesheets
     </li>    
     <li>
-      <img src="./figma.png" width="25px" />
+      <img src="./figma.png" width="20px" />
       Figma - Graphic Editor
     </li>    
     <li>
-      <img src="./vs.png" width="25px" />
+      <img src="./vs.png" width="20px" />
       Visual Studio Code - Code Editing
     </li>    
 </div>
-<br /><br />
+<br />
 <div id="footer" align="center">
   <h2>Link where you can contact me:</h2>
-  <br /><br />
-  <div>
     <a href="https://www.linkedin.com/in/mykola-zadvirnyi/">
       <img src="./in.png" width="55px" />
     </a>
-  </div>
-  <br />
-  <div>
     <a href="#!">
       <img src="./mz.png" width="55px" />
     </a>
-  </div>
   <hr />
 </div>
