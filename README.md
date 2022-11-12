@@ -41,7 +41,7 @@
       <img src="./in.png" width="55px" />
     </a>
     <a href="#!">
-      <img src="./mz.png" width="55px" />
+      <img src="./favicon.png" width="55px" />
     </a>
   <hr />
 </div>
