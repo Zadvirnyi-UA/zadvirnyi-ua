@@ -1,9 +1,9 @@
 <div align="center">
   <hr />
   <h1>HELLO, I`M NICK ZADVIRNYI</h1>
-  <br /><br />
+  <br />
 </div>
-<br /><br />
+<br />
 <div>
   <h2>I use the following technologies:</h2>
   <br />
@@ -43,5 +43,5 @@
       <img src="./favicon.png" width="55px" />
     </a>
   <hr />
-  <img src="./giphy.gif" width="100%" height="20%" />
+  <img src="./giphy.gif" />
 </div>
