@@ -2,7 +2,7 @@
   <hr />
   <h1>HELLO, I`M NICK ZADVIRNYI</h1>
   <br /><br />
-  <img src="./giphy.gif" width="100%" height="30%" />
+  <img src="./giphy.gif" width="100%" height="20%" />
 </div>
 <br /><br />
 <div>
