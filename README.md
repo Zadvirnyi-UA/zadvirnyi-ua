@@ -1,9 +1,7 @@
 <div align="center">
   <hr />
   <h1>HELLO, I`M NICK ZADVIRNYI</h1>
-  <br />
 </div>
-<br />
 <div>
   <h2>I use the following technologies:</h2>
   <br />
