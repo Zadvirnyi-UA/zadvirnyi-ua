@@ -2,7 +2,6 @@
   <hr />
   <h1>HELLO, I`M NICK ZADVIRNYI</h1>
   <br /><br />
-  <img src="./giphy.gif" width="100%" height="20%" />
 </div>
 <br /><br />
 <div>
@@ -44,4 +43,5 @@
       <img src="./favicon.png" width="55px" />
     </a>
   <hr />
+  <img src="./giphy.gif" width="100%" height="20%" />
 </div>
