@@ -1,6 +1,7 @@
 <div align="center">
   <hr />
   <h1>HELLO, I`M NICK ZADVIRNYI</h1>
+  <h1>I`M A FRONT-END WEB DEVELOPER</h1>
   <br />
 </div>
 <div>
